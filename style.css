@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: rgb(1, 87, 106);
+}
+h2{
+    color: rgb(0, 68, 95);
+}
+#div1{
+    background-image: url(images/css\ image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#div2{
+  background-image: linear-gradient(to right, white,lightblue,skyblue)
